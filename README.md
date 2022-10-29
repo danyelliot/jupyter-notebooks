@@ -1,1 +1,1 @@
-# ai-notebooks
+# jupyter-notebooks
